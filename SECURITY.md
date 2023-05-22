@@ -11,6 +11,6 @@
 
 How Do You Report a Vulnerability?
 
-Tell Me on Gethub Or Youtube.
+Tell Me on Github Or Youtube.
 
 
