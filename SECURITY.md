@@ -5,7 +5,7 @@
 | Version  | Supported          |
 | -------  | ------------------ |
 |   0.10.X     |   Supported | 
-| < 0.0005 | Not Supported      |
+| < 0.002 | Not Supported      |
 
 ## Reporting a Vulnerability 
 
