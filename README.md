@@ -1,3 +1,6 @@
+# LMC (Lost Media Code)
+# !!! THIS IS NOT UPDATED !!!
+
 # Binke
 A Gui For Msdos!
 
